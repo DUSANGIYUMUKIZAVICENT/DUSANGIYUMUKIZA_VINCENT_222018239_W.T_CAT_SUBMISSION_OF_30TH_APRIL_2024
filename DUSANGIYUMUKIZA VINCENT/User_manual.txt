@@ -1,0 +1,4 @@
+manager_account
+----------------
+username:manager
+password:123
